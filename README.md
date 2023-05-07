@@ -1,2 +1,1 @@
-[![lmarquar's 42 stats](https://badge42.vercel.app/api/v2/clb2nvggn00250fkyfjsohwql/stats?cursusId=21&coalitionId=149)](https://github.com/JaeSeoKim/badge42)
-> 90 is excellent > 60 good > 30 means i should be coding everyday to catch up and < 30 is just not really desirable and i should be ashamed...
+
