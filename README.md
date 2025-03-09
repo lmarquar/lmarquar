@@ -1,5 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<h1 align="left">Hey 👋 What's up?!<img src='https://github.com/lmarquar/' width='80"'></h1>
 
 
 ###
