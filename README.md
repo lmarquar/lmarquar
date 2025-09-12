@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Leon and I'm a boy, from Germany</p>
+<p align="left">My name is Leon and i hate Neon.<br> Favourit color blue, girls a big issue :-).<br> Code ain't way to solve it, but i still love git.</p>
 
 ###
 
@@ -31,3 +31,4 @@
 </div>
 
 ###
+
