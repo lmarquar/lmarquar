@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: create a carbon-footprint-tracking App<br>🎲 Fun fact: I like playing with my local nextcloud-server.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: create a carbon-footprint-tracking App<br>🎲 Fun fact: I like tweaking my local nextcloud-server and would like to build more.</p>
 
 ###
 
@@ -31,5 +31,6 @@
 </div>
 
 ###
+
 
 
