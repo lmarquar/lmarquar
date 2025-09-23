@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with Android Studio</h2>
+<h2 align="left">I work with Visual Studio Code</h2>
 
 ###
 
@@ -31,6 +31,7 @@
 </div>
 
 ###
+
 
 
 
