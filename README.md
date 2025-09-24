@@ -28,9 +28,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.vectorstock.com/i/500p/95/10/vegetarian-v-symbol-vector-23379510.jpg" height="40" alt="java logo"  />
+  <img width="12" />
 </div>
 
 ###
+
 
 
 
