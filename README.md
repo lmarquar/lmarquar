@@ -4,8 +4,6 @@
 ###
 
 <p align="left">My name is Leon and i hate Neon.<br>Trying to benefit reality, otherwise IT becomes a cruelty.<br> Favourit color is blue, girls are a big issue :-).<br> Code won't solve it, but i love git.</p>
-
-<p align="left">if it cannot benefit reality, coding becomes a cruelty</p>
 ###
 
 <h2 align="left">About me</h2>
@@ -37,6 +35,7 @@
 </div>
 
 ###
+
 
 
 
