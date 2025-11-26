@@ -4,13 +4,14 @@
 ###
 
 <p align="left">My name is Leon and i hate Neon.<br>Trying to benefit reality, otherwise IT becomes a cruelty.<br> Favourit color is blue, girls are a big issue :-).<br> Code won't solve it, but i love git.</p>
+
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: create a carbon-footprint-tracking App, Become an app developer<br>🎲 Fun fact: I like tweaking my local nextcloud-server and would like to build more.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: create a carbon-footprint-tracking App, Become an app developer<br>🎲 Favourite Fun fact: I believe the television or radio randomly starts talking to me directly!</p>
 
 ###
 
@@ -35,6 +36,7 @@
 </div>
 
 ###
+
 
 
 
