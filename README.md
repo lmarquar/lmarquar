@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">My favourite tools "Logo Quiz"</h2>
+<h2 align="left">My favourite software tools "Logo Quiz"</h2>
 
 ###
 
@@ -28,11 +28,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="40" alt="flutter logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
   <img width="42" height="42" alt="image" src="https://github.com/user-attachments/assets/afa4b71e-0894-4f4e-b5fe-187f3c375329" />
+  
 
 </div>
 
 ###
+
 
 
 
