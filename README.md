@@ -28,10 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="pyth logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="OpenAI"/>
+</div>
 
 ###
 
-</div>
 
 ###
 
